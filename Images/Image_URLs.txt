@@ -1,0 +1,7 @@
+Created
+
+https://hub.docker.com/r/rmanchir/sentiment-analysis-frontend
+
+https://hub.docker.com/r/rmanchir/sentiment-analysis-web-app
+
+https://hub.docker.com/r/rmanchir/sentiment-analysis-logic
